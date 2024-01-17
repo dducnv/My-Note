@@ -11,6 +11,15 @@ git remote add origin https://github.com/username/repo.git
 git push -u origin main
 ```
 
+## Push your poject to mutiple git repo
+
+```command
+git remote add github_repo_1 https://github.com/username/repo1.git
+git remote add github_repo_2 https://github.com/username/repo2.git
+git remote add gitlab https://gitlab.com/username/repo_on_gitlab.git
+
+```
+
 ## Add file
 
 ```command
